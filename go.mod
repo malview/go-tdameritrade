@@ -1,4 +1,4 @@
-module github.com/joncooperworks/go-tdameritrade
+module github.com/malview/go-tdameritrade
 
 go 1.14
 
